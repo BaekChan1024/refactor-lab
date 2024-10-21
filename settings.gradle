@@ -1,3 +1,4 @@
 rootProject.name = 'refactor-lab'
 include 'strategy'
+include 'template_method'
 
